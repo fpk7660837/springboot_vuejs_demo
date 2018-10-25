@@ -1,6 +1,5 @@
 package com.netease.Mutest.service;
 
-import com.netease.Mutest.model.Intent;
 import com.netease.Mutest.model.IntentTest;
 
 import java.util.ArrayList;

@@ -1,10 +1,7 @@
 package com.netease.Mutest.controller;
 
-import com.netease.Mutest.dao.SummaryMapper;
-import com.netease.Mutest.dto.IntentEnum;
 import com.netease.Mutest.dto.IntentTestResult;
 import com.netease.Mutest.model.IntentTest;
-import com.netease.Mutest.model.Summary;
 import com.netease.Mutest.service.IntentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

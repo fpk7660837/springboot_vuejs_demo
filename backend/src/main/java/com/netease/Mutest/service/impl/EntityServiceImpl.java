@@ -1,10 +1,8 @@
 package com.netease.Mutest.service.impl;
 
-import com.netease.Mutest.dao.EntityMapper;
 import com.netease.Mutest.dao.EntityTestMapper;
 import com.netease.Mutest.dao.SummaryMapper;
 import com.netease.Mutest.dto.EntityTestResult;
-import com.netease.Mutest.model.Entity;
 import com.netease.Mutest.model.EntityTest;
 import com.netease.Mutest.model.Summary;
 import com.netease.Mutest.service.EntityService;

@@ -2,7 +2,6 @@ package com.netease.Mutest.controller;
 
 import com.netease.Mutest.dto.ErrorDetailResult;
 import com.netease.Mutest.dto.ErrorSummaryResult;
-import com.netease.Mutest.dto.IntentTestResult;
 import com.netease.Mutest.service.ErrorSummaryService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

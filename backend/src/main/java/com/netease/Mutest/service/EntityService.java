@@ -3,7 +3,6 @@ package com.netease.Mutest.service;
 import com.netease.Mutest.dto.EntityTestResult;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
